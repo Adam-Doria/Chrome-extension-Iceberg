@@ -2,7 +2,7 @@
 
 ### :rainbow: Le Projet
 
-Cette extension, réalisée en binôme avec Adam Drici (et auteur de l'idée) s'articule autour de l'effet Matilda. 
+Cette extension, réalisée en binôme avec Clément Badin s'articule autour de l'effet Matilda. 
 L'effet Matilda est un concept du début des années 80, qui révèle que de nombreuses femmes du domaine scientifique n'ont pas été reconnues pour leurs travaux et leurs découvertes, ou mises en arrière plan, et dont certaines ont vu le prix Nobel qu'elles auraient dû recevoir attribué à un homme. 
 Le but de l'extension est de pouvoir remettre ces femmes en lumière. 
 
